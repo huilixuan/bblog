@@ -3,6 +3,9 @@ source 'https://gems.ruby-china.org/'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '5.0.1'
 
+# bccrypt gem ensure password security add by xuanhuili
+gem 'bcrypt',         '3.1.11'
+
 # add bootstrap gem add by xuanhuili
 gem 'bootstrap-sass', '3.3.6'
 
